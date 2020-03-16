@@ -1,0 +1,78 @@
+Added Component: Designator=Q18(*TO229P780X300X2000-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BD135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-126-3 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BD135/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q19(*TO229P780X300X2000-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BD135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-126-3 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BD135/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q20(*TO229P780X300X2000-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BD135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-126-3 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BD135/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q21(*TO229P780X300X2000-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BD135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-126-3 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BD135/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q22(*TO229P780X300X2000-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BD135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-126-3 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BD135/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q23(*TO229P780X300X2000-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BD135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-126-3 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BD135/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q18-1
+Added Pin To Net: NetName=NetQ18_2 Pin=Q18-2
+Added Pin To Net: NetName=NetQ18_3 Pin=Q18-3
+Added Pin To Net: NetName=GND Pin=Q19-1
+Added Pin To Net: NetName=NetQ19_2 Pin=Q19-2
+Added Pin To Net: NetName=NetQ19_3 Pin=Q19-3
+Added Pin To Net: NetName=GND Pin=Q20-1
+Added Pin To Net: NetName=NetQ20_2 Pin=Q20-2
+Added Pin To Net: NetName=NetQ20_3 Pin=Q20-3
+Added Pin To Net: NetName=GND Pin=Q21-1
+Added Pin To Net: NetName=NetQ21_2 Pin=Q21-2
+Added Pin To Net: NetName=NetQ21_3 Pin=Q21-3
+Added Pin To Net: NetName=GND Pin=Q22-1
+Added Pin To Net: NetName=NetQ22_2 Pin=Q22-2
+Added Pin To Net: NetName=NetQ22_3 Pin=Q22-3
+Added Pin To Net: NetName=GND Pin=Q23-1
+Added Pin To Net: NetName=NetQ23_2 Pin=Q23-2
+Added Pin To Net: NetName=NetQ23_3 Pin=Q23-3
+Added Member To Class: ClassName=seven_segment_driver_sche2 Member=Component Q18 BD135
+Added Member To Class: ClassName=seven_segment_driver_sche2 Member=Component Q19 BD135
+Added Member To Class: ClassName=seven_segment_driver_sche2 Member=Component Q20 BD135
+Added Member To Class: ClassName=seven_segment_driver_sche2 Member=Component Q21 BD135
+Added Member To Class: ClassName=seven_segment_driver_sche2 Member=Component Q22 BD135
+Added Member To Class: ClassName=seven_segment_driver_sche2 Member=Component Q23 BD135
