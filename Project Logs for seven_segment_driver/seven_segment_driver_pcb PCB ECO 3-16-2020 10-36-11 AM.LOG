@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=lcdD7 Pin=P16-6
+Removed Pin From Net: NetName=lcdD6 Pin=P16-7
+Removed Pin From Net: NetName=lcdD5 Pin=P16-8
+Removed Pin From Net: NetName=lcdD4 Pin=P16-9
+Added Component: Designator=BT1(BTH2032)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "."; Value = "http://www.chila.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "BAT3volt"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC500P450250X550)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "e4941_fk datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.tdk.co.jp/tefe02/e4941_fk.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "FK24X7R1H224K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0.217" L x 0.177" W (5.50mm x 4.50mm) radial 5mm LS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-2855-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220n"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC500P450250X550)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "e4941_fk datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.tdk.co.jp/tefe02/e4941_fk.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "FK24X7R1H224K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0.217" L x 0.177" W (5.50mm x 4.50mm) radial 5mm LS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-2855-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(Vishay_K220J15_0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(Vishay_K220J15_0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y1(Cristal mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Fequency"; Value = "4MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8 April 2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=+5V Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+5V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=lcdD4 Pin=P16-6
+Added Pin To Net: NetName=lcdD5 Pin=P16-7
+Added Pin To Net: NetName=lcdD6 Pin=P16-8
+Added Pin To Net: NetName=lcdD7 Pin=P16-9
+Added Pin To Net: NetName=+5V Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=+5V Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=+5V Pin=U1-32
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Net: Name=NetBT1_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U1-12
+Added Pin To Net: NetName=NetC7_2 Pin=Y1-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U1-13
+Added Pin To Net: NetName=NetC8_2 Pin=Y1-1
+Added Net: Name=NetC8_2
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component BT1 BAT3volt
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component C5 approved sub OK
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component C6 approved sub OK
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component C7 K220J15C0GF5TH5
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component C8 K220J15C0GF5TH5
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component Y1 4MHz
