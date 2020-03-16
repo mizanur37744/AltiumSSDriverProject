@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Member From Class: ClassName=seven_segment_driver_sche Member=BT1
+Added Component: Designator=BT?(CR2032 CELL HOLDER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "06-May-2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Cynetik Group"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revised"; Value = "Zion Blue"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(DIP8-300)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DS1307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-8 Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DS1307/Maxim%20Integrated/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT?-2
+Added Pin To Net: NetName=NetH1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetH1_2 Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=SDA Pin=IC1-5
+Added Pin To Net: NetName=SCL Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=+5V Pin=IC1-8
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-1
+Added Pin To Net: NetName=NetBT?_1 Pin=IC1-3
+Added Net: Name=NetBT?_1
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component BT? CR2032
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component IC1 DS1307
+Added Room: Name=seven_segment_driver_sche2
+Added Room: Name=seven_segment_driver_sche
