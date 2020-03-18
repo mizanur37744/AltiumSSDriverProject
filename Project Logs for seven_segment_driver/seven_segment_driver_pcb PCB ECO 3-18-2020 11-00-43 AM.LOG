@@ -1,0 +1,48 @@
+Added Component: Designator=C9(CAPE10.0MM_Rad_10x14mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "NICHICON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "JD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "UHM1C471MPD6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "GT470UF16V_10x12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Al Electrolytic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "16V; 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "undef"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "54K8151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470µ"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPE10.0MM_Rad_10x14mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "NICHICON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "JD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "UHM1C471MPD6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "GT470UF16V_10x12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Al Electrolytic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "16V; 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "undef"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "54K8151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470µ"; VariantName = "[No Variations]"
+Added Component: Designator=Q24(*TO229P780X300X2000-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q25(*TO229P780X300X2000-3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=+12V Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+12V Pin=Q24-1
+Added Pin To Net: NetName=NetP18_1 Pin=Q24-2
+Added Pin To Net: NetName=NetQ24_3 Pin=Q24-3
+Added Pin To Net: NetName=+12V Pin=Q25-1
+Added Pin To Net: NetName=NetP19_1 Pin=Q25-2
+Added Pin To Net: NetName=NetQ25_3 Pin=Q25-3
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component C9 470µ
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component C10 470µ
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component P17 Header 8
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component Q24 BD136
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component Q25 BD136
+Added Member To Class: ClassName=seven_segment_driver_sche Member=Component R36 Carbon Film
